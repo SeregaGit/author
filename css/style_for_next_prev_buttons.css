@@ -1,0 +1,25 @@
+.outside{
+    position: relative;
+}
+
+.next-prev_buttons_position{
+    position: relative;
+    top: -140px;
+
+}
+.bx-next{
+    display: inline-block;
+    background-image: url("../img/right.png");
+    height: 23px;
+    width: 12px;
+    float: right;
+}
+
+.bx-prev{
+    display: inline-block;
+    background-image: url("../img/left.png");
+    height: 23px;
+    width: 12px;
+    margin-right: 1038px;
+
+}
